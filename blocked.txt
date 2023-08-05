@@ -1,5 +1,10 @@
 27ae74becc8cd701b19f25d347faa71084f69acd : *.arkhamnetwork.org
 986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
+986204c70d368d50ffead9031e86f2b9e70bb6d0 : *.playmc.mx
 d42339c120bc10a393a0b1d2c6a2e0ed4dbdd61b : *.herowars.org
 8bf58811e6ebca16a01b842ff0c012db1171d7d6 : *.eulablows.host
 8789800277882d1989d384e7941b6ad3dadab430 : *.moredotsmoredots.xyz
