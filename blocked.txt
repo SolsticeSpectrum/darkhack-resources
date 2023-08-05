@@ -31,3 +31,6 @@ b8c876f599dcf5162911bba2d543ccbd23d18ae5 : brandonisagainst.health-carereform.co
 79aecb5b9fafced11f05bbb6939262f5d4e3626b : *.blacklistthisifyousupportrape.host
 f3df314d1f816a8c2185cd7d4bcd73bbcffc4ed8 : *.mojangsentamonkeyinto.space
 65ca8860fa8141da805106c0389de9d7c17e39bf : *.howdoiblacklistsrv.host
+65ca8860fa8141da805106c0389de9d7c17e39b5 : *.wqdqdw.host
+65ca8860fa8141da805106c0389de9d7c17e39b4 : *.fefe.host
+65ca8860fa8141da805106c0389de9d7c17e39b4 : *.vrfvfr.host
